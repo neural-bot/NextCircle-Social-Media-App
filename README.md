@@ -24,7 +24,7 @@ NextCircle is a Django-based social media platform that allows users to share po
 
    ```sh
 
-   git clone https://github.com/yourusername/next-circle.git
+   git clone https://github.com/neural-bot/https://github.com/neural-bot/NextCircle-Social-Media-App
    cd next-circle
    ```
 
