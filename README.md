@@ -21,8 +21,10 @@ NextCircle is a Django-based social media platform that allows users to share po
 ### Setup Instructions
 
 **Sample Username & Passwords**
-- username: najib2
-- password: hello@2676
+- *username:* najib2
+- *password:* hello@2676
+- *username:* Asif_Ahamed_Sheam
+- *password:* siam2000@
 
 1. **Clone the repository**
 
